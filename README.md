@@ -7,4 +7,4 @@ It is tool that detects duplicate file from selected folder. Also gives the list
 ![](images/Main.JPG)
 
 ##After Delete
-![](images/After%20deleted.JPG)
+![](https://github.com/SandhyaReddy21/DuplicateFileRemover/blob/main/After%20deleted.JPG)
